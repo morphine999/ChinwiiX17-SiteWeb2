@@ -1,7 +1,7 @@
 # ChinwiiX17-SiteWeb2
 HADA SITE WEB JDID DYALI
 [My SiteWeb.html](https://github.com/user-attachments/files/22351010/My.SiteWeb.html)
-<!DOCTYPE html>
+
 <html lang="en">
 <head>
     <meta charset="UTF-8">
